@@ -8,7 +8,7 @@ Includes:
 If you use this repository please cite the accompanying paper:
 
 @misc{bevilacqua2023automated,
-      title={When Automated Assessment Meets Automated Content Generation: Examining Text Quality in the Era of GPTs}, 
+      title={When Automated Assessment Meets Automated Content Generation: Examining Text Quality in the Era of GPTs},
       author={Marialena Bevilacqua and Kezia Oketch and Ruiyang Qin and Will Stamey and Xinyuan Zhang and Yi Gan and Kai Yang and Ahmed Abbasi},
       year={2023},
       eprint={2309.14488},
