@@ -7,6 +7,8 @@ Includes:
 
 If you use this repository please cite the accompanying paper:
 
+https://arxiv.org/abs/2309.14488
+
 ```
 @misc{bevilacqua2023automated,
       title={When Automated Assessment Meets Automated Content Generation: Examining Text Quality in the Era of GPTs},
